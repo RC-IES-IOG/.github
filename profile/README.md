@@ -3,15 +3,15 @@
   
   # RC-IES-IOG | 智能优化组
 
-<!-- 中文版 -->
-[![中国科学院](https://img.shields.io/badge/中国科学院-计算技术研究所-005792?logo=academia)](https://www.ict.ac.cn/)
-[![中国科学院](https://img.shields.io/badge/Chinese_Academic_of_Sciences-Institute_of_Computing_Technology-005792?logo=academia)](https://www.ict.ac.cn/)
+[![](https://img.shields.io/badge/Chinese_Academic_of_Sciences-Institute_of_Computing_Technology-005792?logo=academia)](https://www.ict.ac.cn/)
+[![](https://img.shields.io/badge/中国科学院-计算技术研究所-005792?logo=academia)](https://www.ict.ac.cn/)
 
-[![课题组](https://img.shields.io/badge/装备智能系统研究中心-智能优化组-3A7CA5?logo=ai)](https://www.ict.ac.cn/jssgk/zzjg/kyxt/zxzx/ds/)
-[![课题组](https://img.shields.io/badge/Research_Center_for_Intelligent_Equipment_Systems-Intelligent_Optimization_Group-3A7CA5?logo=robot)](https://www.ict.ac.cn/jssgk/zzjg/kyxt/zxzx/ds/)
+[![](https://img.shields.io/badge/Research_Center_for_Intelligent_Equipment_Systems-Intelligent_Optimization_Group-3A7CA5?logo=robot)](https://www.ict.ac.cn/jssgk/zzjg/kyxt/zxzx/ds/)
+[![](https://img.shields.io/badge/装备智能系统研究中心-智能优化组-3A7CA5?logo=ai)](https://www.ict.ac.cn/jssgk/zzjg/kyxt/zxzx/ds/)
 
-[![技术栈](https://img.shields.io/badge/知识蒸馏_|_持续学习_|_模型加速-工业级优化-3776AB)]()
-[![技术栈](https://img.shields.io/badge/Knowledge_Distillation_|_Continual_Learning_|_Model_Compression-Industrial_Optimization-3776AB)]()
+[![](https://img.shields.io/badge/Knowledge_Distillation_|_Continual_Learning_|_Model_Compression-Industrial_Optimization-3776AB)]()
+[![](https://img.shields.io/badge/知识蒸馏_|_持续学习_|_模型加速-工业级优化-3776AB)]()
+
 
 </div>
 
